@@ -1,5 +1,5 @@
-## Put comments here that give an overall description of what your
-## functions do
+## The set of functions together calculate the inverse of a matrix. As inverses can take
+## a lot of computation, we create a cache of the inverse and use it if necessary
 
 ## Write a short comment describing this function
 
