@@ -1,5 +1,7 @@
 ## The set of functions together calculate the inverse of a matrix. As inverses can take
 ## a lot of computation, we create a cache of the inverse and use it if necessary
+## we create matrix object using makecachematrix function and then call the output 
+## in cachSolve function to get the inverse of the matrix
 
 ## makecachematrix creates a special matrix object which can cache its inverse
 
